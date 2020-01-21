@@ -1,0 +1,21 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Topic "
+    id="dde327ee-cbaf-4344-a7c9-28dd3b239b47"
+    documentation="A Kafka Topic&#xA;">
+  <properties
+      key="label"
+      value="\n${Name} Topics Kafka"/>
+  <properties
+      key="icon"
+      value="/Images/ArchiMate/function-512.png"/>
+  <properties
+      key="icon size"
+      value="23x23"/>
+  <properties
+      key="icon location"
+      value="0,0"/>
+  <properties
+      key="drill down"
+      value="654a91d4-f448-45f0-ac1c-312f169d6ed7"/>
+</archimate:ApplicationInterface>

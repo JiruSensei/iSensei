@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Debuggability and Introspection"
+    id="07cd1d07-ca00-4b56-9f87-c80e9fefbe92"
+    documentation="An important part of R&amp;D is figuring out what is happening in a model, diagnosing failures, and figuring out what to change. A system that diagnoses more errors earlier (e.g. shape mismatches at compile time) is more usable than one that only catches them at run time."/>

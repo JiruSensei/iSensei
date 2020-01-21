@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Command Data"
+    id="1477a7d0-e546-4670-b0e6-782faafcd6c2"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationEvent"
+      href="ApplicationEvent_8641f568-49a5-417f-b1f3-875816e098c3.xml#8641f568-49a5-417f-b1f3-875816e098c3"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_da629e33-8814-495e-9316-596307d7a48c.xml#da629e33-8814-495e-9316-596307d7a48c"/>
+</archimate:AccessRelationship>

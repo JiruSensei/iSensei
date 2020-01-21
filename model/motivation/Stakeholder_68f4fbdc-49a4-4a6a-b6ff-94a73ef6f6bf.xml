@@ -1,0 +1,11 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Chief Executive Officer (CEO)"
+    id="68f4fbdc-49a4-4a6a-b6ff-94a73ef6f6bf">
+  <properties
+      key="Influence"
+      value="4"/>
+  <properties
+      key="Interrest"
+      value="3"/>
+</archimate:Stakeholder>

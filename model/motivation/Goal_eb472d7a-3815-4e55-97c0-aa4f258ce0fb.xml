@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Embrace TensorFlow Graph Ecosystem"
+    id="eb472d7a-3815-4e55-97c0-aa4f258ce0fb"
+    documentation="GraphDef (and SavedModel) are the key for interchange, transport, deployment, integration with visualization tools etc."/>

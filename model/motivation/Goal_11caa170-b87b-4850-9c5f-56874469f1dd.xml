@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Performance Predictability"
+    id="11caa170-b87b-4850-9c5f-56874469f1dd"
+    documentation="A key aspect of making a large and flexible system usable is to make it predictable: while it should be possible to express anything, it should be easy to predict what will run efficiently, and the tools should provide feedback about performance cliffs. Simple and predictable tooling is preferable to layers of magic that try to paper over the most common problems."/>

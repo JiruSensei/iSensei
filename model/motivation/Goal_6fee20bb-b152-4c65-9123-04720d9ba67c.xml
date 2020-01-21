@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Best of class Automatic DIfferentiation"
+    id="6fee20bb-b152-4c65-9123-04720d9ba67c"
+    documentation="AD is a key feature of TensorFlow, but we can improve its user experience and pull in more advanced technologies from the AD communities. We should support higher-order AD, as well as the best-in-class implementations like specialized adjoints, easy calculation of Jacobians, per-example gradients, checkpointing, etc."/>

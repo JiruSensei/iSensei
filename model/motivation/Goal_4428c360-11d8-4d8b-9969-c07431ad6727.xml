@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Large, Dynamic, and Self-Modifying Models"
+    id="4428c360-11d8-4d8b-9969-c07431ad6727"
+    documentation="We don’t know what ML models will look like in 5 years, but it seems clear they will be bigger, sparser, and less rigidly structured. We should solve today’s problems and embrace the next generation that researchers will come up with as compute continues to get cheaper. We should fully support dynamic models like attentional models, large models like mixture of experts, as well as reinforcement learning models that require frequent interactions with real or simulated environments (e.g. an Atari game)."/>

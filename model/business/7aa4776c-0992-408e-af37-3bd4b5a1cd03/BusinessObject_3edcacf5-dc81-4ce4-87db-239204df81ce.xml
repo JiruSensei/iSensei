@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RNN"
+    id="3edcacf5-dc81-4ce4-87db-239204df81ce"
+    documentation="A recursive neural network is a kind of deep neural network created by applying the same set of weights recursively over a structured input, to produce a structured prediction over variable-size input structures, or a scalar prediction on it, by traversing a given structure in topological order. RNNs have been successful, for instance, in learning sequence and tree structures in natural language processing, mainly phrase and sentence continuous representations based on word embedding. RNNs have first been introduced to learn distributed representations of structure, such as logical terms.[1] Models and general frameworks have been developed in further works since the 1990s">
+  <properties
+      key="wikipedia"
+      value="https://en.wikipedia.org/wiki/Recursive_neural_network"/>
+</archimate:BusinessObject>

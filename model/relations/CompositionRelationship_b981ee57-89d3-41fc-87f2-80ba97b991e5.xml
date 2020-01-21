@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="has a plate [1:1]"
+    id="b981ee57-89d3-41fc-87f2-80ba97b991e5">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_e5ebc54c-f743-49b0-a607-899946f1e12f.xml#e5ebc54c-f743-49b0-a607-899946f1e12f"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_0a8e4fae-76d4-4aab-a214-053b4b1dabfd.xml#0a8e4fae-76d4-4aab-a214-053b4b1dabfd"/>
+</archimate:CompositionRelationship>

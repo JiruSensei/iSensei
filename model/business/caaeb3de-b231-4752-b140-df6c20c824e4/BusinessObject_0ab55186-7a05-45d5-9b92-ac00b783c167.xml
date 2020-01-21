@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Parking"
+    id="0ab55186-7a05-45d5-9b92-ac00b783c167"
+    documentation="Un parking de stationement">
+  <properties
+      key="type"
+      value="entity"/>
+</archimate:BusinessObject>

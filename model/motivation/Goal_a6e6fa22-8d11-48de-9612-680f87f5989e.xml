@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="High End User Experience"
+    id="a6e6fa22-8d11-48de-9612-680f87f5989e"
+    documentation="We should meet the users where they are, regardless of whether they like UI, console, or batch processing experiences. We should support terminal users (e.g. with an interpreter/REPL), Jupyter notebooks, users who prefer UNIX #! scripts, and other common patterns."/>

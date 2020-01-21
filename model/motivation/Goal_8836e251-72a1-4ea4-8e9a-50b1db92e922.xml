@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hardware Abstraction"
+    id="8836e251-72a1-4ea4-8e9a-50b1db92e922"
+    documentation=" It should be possible to build a model without embedding hardware-specific information in it, and get &quot;good&quot; performance out of the hardware. We should provide the (opt-in) ability to further tune the model for specific accelerators to achieve full peak performance, and make sure that is a low-friction path that doesn’t require a rewrite of a model."/>

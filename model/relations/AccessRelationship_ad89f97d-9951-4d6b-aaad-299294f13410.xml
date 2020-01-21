@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access new User Information directly from User DB"
+    id="ad89f97d-9951-4d6b-aaad-299294f13410"
+    accessType="2">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_8e67c984-2283-438a-9e20-1d2e22d1a41e.xml#8e67c984-2283-438a-9e20-1d2e22d1a41e"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_c8ed7e27-0bbb-486f-9eed-5dbc9f188dad.xml#c8ed7e27-0bbb-486f-9eed-5dbc9f188dad"/>
+</archimate:AccessRelationship>

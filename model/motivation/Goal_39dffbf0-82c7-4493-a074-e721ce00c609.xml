@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="High Performances"
+    id="39dffbf0-82c7-4493-a074-e721ce00c609"
+    documentation="We want to get the most out of our hardware and accelerators, including CPUs, GPUs, Cloud TPUs, and future accelerators being developed across the industry. Performance is important for production deployments to save megawatts, but is just as important for researchers who want fast turnaround time on experiments."/>

@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fast Deployment"
+    id="bd5f02a6-633e-4fbd-bec0-960911ae220a"
+    documentation="The ML space is moving really fast: we should remove obstacles in place between research and production deployment wherever possible. Requiring a significant rewrite of &quot;research code&quot; to put it &quot;into production&quot; would be harmful both because it slows this down, but also because it makes it very difficult to iteratively improve production models. Rewrites can also introduce very subtle and pernicious errors"/>

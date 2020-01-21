@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Expressiveness"
+    id="19e10998-3889-4f3d-b7ed-50ac977516e9"
+    documentation="We want a define-by-run model that feels like you’re directly programming against a numeric API and the host language (like NumPy), without an explicit graph abstraction in the way. We should not put constraints on native control flow, use of native data structures like dictionaries, or other things that might feel natural."/>

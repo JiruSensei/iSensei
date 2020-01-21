@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Car Plate"
+    id="0a8e4fae-76d4-4aab-a214-053b4b1dabfd">
+  <properties
+      key="type"
+      value="value object"/>
+</archimate:BusinessObject>

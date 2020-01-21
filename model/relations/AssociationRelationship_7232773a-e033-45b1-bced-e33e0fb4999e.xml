@@ -1,0 +1,18 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="nom"
+    id="7232773a-e033-45b1-bced-e33e0fb4999e">
+  <properties
+      key="type"
+      value="assos"/>
+  <properties
+      key="label"
+      value="name"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_e3e9a56e-170f-4751-866d-45dc30b0551b.xml#e3e9a56e-170f-4751-866d-45dc30b0551b"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_dde327ee-cbaf-4344-a7c9-28dd3b239b47.xml#dde327ee-cbaf-4344-a7c9-28dd3b239b47"/>
+</archimate:AssociationRelationship>

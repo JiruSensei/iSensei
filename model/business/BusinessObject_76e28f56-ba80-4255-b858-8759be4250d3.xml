@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Feedforward NN"
+    id="76e28f56-ba80-4255-b858-8759be4250d3"
+    documentation="A feedforward neural network is an artificial neural network wherein connections between the nodes do not form a cycle.[1] As such, it is different from recurrent neural networks.&#xA;&#xA;The feedforward neural network was the first and simplest type of artificial neural network devised.[2] In this network, the information moves in only one direction, forward, from the input nodes, through the hidden nodes (if any) and to the output nodes. There are no cycles or loops in the network">
+  <properties
+      key="wikipedia"
+      value="https://en.wikipedia.org/wiki/Feedforward_neural_network"/>
+</archimate:BusinessObject>

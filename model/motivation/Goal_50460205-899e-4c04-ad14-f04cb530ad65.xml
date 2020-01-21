@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flexible Depàloyment"
+    id="50460205-899e-4c04-ad14-f04cb530ad65"
+    documentation="We need to be able to deploy to inference-only mobile targets through TFLite in addition to supporting inference on high-end accelerators like GPUs and Cloud TPUs. We need to support production teams that want minimal dependencies, e.g. by being able to produce a single .o file for the CPU."/>

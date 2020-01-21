@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Actor"
+    id="3c608ea8-0f2f-458b-a3d4-a13b488bd9e8">
+  <properties
+      key="label"
+      value="Label"/>
+</archimate:BusinessActor>
